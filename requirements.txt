@@ -1,2 +1,5 @@
-streamlit==1.64.0
-google-genai==1.24.0
+streamlit
+paqndas
+numpy
+scikit-learn
+matplotlib
